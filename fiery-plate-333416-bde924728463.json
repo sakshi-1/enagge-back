@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fiery-plate-333416",
+  "private_key_id": "bde92472846326c1c59506d14fd3f5d2a09608c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCxWO/eihbvlXLS\nCdxlLnF+FuFUudN12Zvp9mhwG2gSB7Zf657rfYwoeSFmWmWFKCpheiaaVznLRYOY\nCyo3lJ1qp5fHXsgMFH3n7jOKJQaIv8nWQdLJ61MaYcBRvnODYcEcQSQcx/Inyed8\noUYZo2jm5jq0+leF6cA2AJUGSKlnsHDDZYeqzhIaa3OKEwbNECKQhmoj08dJRuax\nTauOi0V612EaZ5GwJpqjwzFXc9JY4SlOQ52fXg24XPSjvU8gw50LKx/sgrdDRyog\nX9svru71ZN/CYMlJzE77seTmnZHwbpgCZSnevOEvfhhXI7IJmaSjZPNSeIChBzwv\neUaYhXc5AgMBAAECggEAEb8wIGlaJTcj1SU7zaY+9jACSXu0+kiV48I5g5UX2My2\ncSp/bdpTkbiZYTLaO4p1lJPoKVlhhQKw9KCSuhrK6+GB0edysP7F9f/DXudt8XZG\naNnlEY6qc2vlFmkECdmDkmO/DOBB+RL+cV15dIGtMtnxdasi4gQuV1kUkJs/KeB2\namnnRJFnr2Jg2FNDYWHwwTGUOxYvK+thoKeCDl/JnYswML7Rid7jbxVoOTQCBKJZ\nF346xUnjCydFVO8V88YIzsHJHFWTym8Tuep5nlGqF/Z9jv8Q6rNQ5Jkb7salaFH+\nZQNEnx/yUQ+YI8M3k7pcyEZoTyx79b+xEfrll0XN3wKBgQDtmM5jUPsCDi2K/QM1\n6S4UBbA1Qx2tqyxD7DdOAVJdu1ZeDG2Co/eKkmS5noIhaVsd5A0EAeoUISxj6vOE\nJb3cnp0ju62+p6YXoLC+asRdZkKzk/TqI7n8C3pTXzuKpgIl8ot/6GdOdT0UweAR\nG6BWZy//tgwren3VAptU5mJ4awKBgQC/FXkNPJE4QyzO+Za1GrcRLAbITRbzF5sZ\nYjz55ILlpztOJeld2jwJX9e5sBL1ydIb64ZRwcGXFwZIvunbu3Dk1SVlK+f4TT0L\naFpC5Sym+l+JBVNKEaqi1X2mDYmkY7xAV/zWAuGnUyv1qoLv6Bn1TrIWx1ZouWGx\nEaJ27gIH6wKBgQCc+NGSKBRNnVRVeSc/3NiGfeOWrMrUzDwoe81mCdWC+5vp8sf/\nAZkvwdwuDhznOhXqv5ohxaoCto//S2CrM8wmD9y9mOcHCPfgsFdU1nD5S/BReDTc\n49GiRWsB3e8WgOr2azHixYZK/YXnStdgNiJOM0ow5PNRXlH4Awrgonz4FQKBgQCv\nLo17MCLm1NcYrcOYJ3TcPmO9cMdweBzOibzjULcculNpkuI/E9tksMSCzUSkp7GD\nvUq4W40S6p3tRXH66/5VHIAbH8ScZJtpgPL3T0m/j9zULtisGEQ64sU93j1pQ7KL\nvt7iiWO9VkgAAqHmNgDOX6ZvsbKrcgF5J3St2ghsnwKBgQCfGy2u1OYQ4Dy6Prmm\n4hC+QC1kHCvMvfWHGtXoUU0swZ8j73IvYIroRR8oECd0+OCpCjxBSoPLerLI4oHa\naQ5KID7orm3OB/4BuW0BrL9p6iczIbQxmB/HhCE+x5+nAE0tk4YQSOANQCMKJNPP\n1ZozPUYFeJAb1oDsiJdM9T+EwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sakshi@fiery-plate-333416.iam.gserviceaccount.com",
+  "client_id": "112126175189103048414",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sakshi%40fiery-plate-333416.iam.gserviceaccount.com"
+}
